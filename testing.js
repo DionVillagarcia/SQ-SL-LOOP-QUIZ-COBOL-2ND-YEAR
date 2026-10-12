@@ -1,1 +1,1 @@
-console.log("Yanipogi");
+console.log("yanipogi");
